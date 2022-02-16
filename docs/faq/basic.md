@@ -10,23 +10,23 @@ Neo is a distributed network which utilizes blockchain technology and digital id
 
 ## What developer communities does Neo have?
 
-Neo has a large number of worldwide developer communities that have been contributing to Neo development for a long time. Following are some representative communities:
+Neo has a large number of community groups worldwide that have been driving the development of the Neo ecosystem forward. These groups include:
 
-- **CoZ**, the earliest developer community in Neo ecosystem: https://github.com/CityOfZion
-- **NEL**, the first Chinese developer community in Neo ecosystem: https://github.com/NewEconoLab
-- **NeoResearch**, the South American developer community：https://github.com/NeoResearch
-- **NSPCC**, the St. Petersburg developer community, russia：https://www.nspcc.ru/en/
-- **NEO·ONE**, a Neo blockchain development toolkit: https://neo-one.io/
-- **Red4Sec**, Neo contract security audit：https://red4sec.com/
-- **NEONEWSTODAY**, Neo ecosystem latest news: https://neonewstoday.com/
-- **NEXT**, Neo Dapp tools development：https://neonext.io/
-- **neow3j**, multi-language SDK for Neo smart contract development：https://github.com/neow3j/
+- **COZ**, Global. Major projects include Neon Wallet, Dora, and the Neo Python Suite: https://github.com/CityOfZion
+- **NeoResearch**, Brazil. Major projects include dBFT applied research and NeoCompiler Eco：https://github.com/NeoResearch
+- **NeoSPCC**, Russia. Major projects include NeoFS and NeoGo：https://www.nspcc.ru/en
+- **NGD Enterprise**, USA. Major projects include the Neo Blockchain Toolkit: https://ngdenterprise.com
+- **NEXT**, China. Major projects include NeoLine and NeoTube：https://neonext.io
+- **AxLabs**, Switzerland. Major projects include neow3j and NeoPlayground：https://github.com/neow3j
+- **Red4Sec**, Spain. Neo blockchain and contract security audits：https://red4sec.com
+- **NeoTracker**, USA. Major projects include NEO-ONE and NeoTracker: https://neo-one.io
+- **Neo News Today**, USA. Major projects include NeoNewsToday.com and nDapp: https://neonewstoday.com
 
-## What is GAS？How to acquire GAS？
+## What is GAS？How do I acquire GAS？
 
-GAS represents the right to use the Neo Blockchain. Neo network charges GAS for the new assets issuance and smart contract running as well as all translations that modify the blockchain status . The Neo N3 Genesis block will mint the exact amount of GAS token needed to account for all GAS token circulating on the NEO Legacy chain at the time of Genesis block. In Neo N3 once NEO is transferred from the account, the relevant GAS is claimed to the same address automatically.
+GAS is a native asset that represents the right to use the Neo Blockchain. The Neo network charges GAS to deploy assets, interact with smart contracts, and all transactions that modify the blockchain status. GAS is distribued to all wallets holding NEO in each block. The amount of GAS recieved can be increased by participating in Neo's governance and voting for a council candidate. On Neo N3, accruded GAS is claimed automatically by a wallet whenever there is a change in the NEO balance.
 
-Unlike the Neo Legacy, there is no supply limit for Neo N3 GAS and system fees for  transactions will be burned off.
+Unlike the Neo Legacy, there is no supply limit for Neo N3 GAS and system fees for transactions are burned.
 
 ## What consensus algorithms does Neo use？
 
